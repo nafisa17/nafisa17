@@ -1,2 +1,0 @@
-[napari.manifest]
-napari-parallel = napari_parallel:napari.yaml
