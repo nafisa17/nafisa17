@@ -1,7 +1,7 @@
 
 👋 Hey, I’m Nafisa 
 
-🩺 I'm a master's student @TUDresden
+👩‍💻 I'm a master's student @TUDresden
 
 👨‍🎓 I'm a M.Sc student in clinical AI @KatherLab
 
